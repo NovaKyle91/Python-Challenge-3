@@ -7,7 +7,7 @@ Thank you for taking the time to review my work on The Python Challenge! My inst
 
 Folders labeled Images and Starter_Code are the initial files that were provided for this assignment. This was to prove that I can commit changes from Python to GitHub without having to upload files from my computer to GitHub.
 
-Folers marked PyBank and PyPoll will be what you will need to check on my findings.
+Folers marked PyBank and PyPoll/Resources will be what you will need to check on my findings.
 
 PyBank folder contains an IPYNB of PyBank (labeled PyBank.ipynb) and a .csv text file (labeled Financial Analyis.csv) of the results that are found in the terminal of PyBank.ipynb. PyBank.ipynb features the coding I used along with some comments to clarify what the coding is finding, compiling, listing, etc.
 
